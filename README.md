@@ -1,2 +1,3 @@
 # CAUSEbananaBread.github.io
-CAUSEbananaBread.weebly.com
+
+Forwards to [CAUSEbananaBread.weebly.com](https://CAUSEbananaBread.weebly.com)
